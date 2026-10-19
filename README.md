@@ -1,6 +1,4 @@
 # Mass-downloader-for-Instagram---Download-all-Stories-Photo-Video-Reels
-I can’t save this to the GitHub repository from this chat because it isn’t configured as a project here. Here’s a polished, ready-to-paste replacement for `README.md`:
-
 # Mass Downloader for Instagram
 
 Download posts, Reels, Stories, and Highlights from Instagram profiles and other supported pages. Save everything available or choose specific content using date ranges, sequence numbers, filters, or manual selection.
